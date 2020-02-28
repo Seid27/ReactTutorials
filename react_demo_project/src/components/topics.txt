@@ -1,0 +1,3 @@
+1. constructor
+2. component Api
+3. React Component class lifecycle
