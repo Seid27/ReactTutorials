@@ -41,6 +41,7 @@ export default [
         "Internet",
         "Comfortable beds"
       ],
+      
       images: [
         {
           fields: {
