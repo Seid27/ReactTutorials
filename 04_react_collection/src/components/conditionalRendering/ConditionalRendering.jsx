@@ -1,9 +1,11 @@
 import React from 'react'
+import MultipleRendering from './MultipleRedering'
 
 export default function ConditionalRendering() {
     return (
         <div>
             <List list= {users}></List>
+            <MultipleRendering></MultipleRendering>
         </div>
     )
 }

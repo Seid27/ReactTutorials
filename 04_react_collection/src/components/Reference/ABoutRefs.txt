@@ -1,0 +1,4 @@
+Refs is very similar to keys
+
+1.DOM measurements like managing focus, test selections or media playback
+2. use for animation
